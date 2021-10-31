@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    box-sizing: border-box;
+    box-sizing: border-box; 
+    
+}   
+body{
+    background-color: #1d2026;
 }
 
 .hero{ 
@@ -24,10 +28,10 @@ nav .menu-img{
      cursor: pointer;
 }   
 
-nav .logo{ 
-    width: 150px;   
+nav .logo{  
+    width: 80px;   
     cursor: pointer;    
-    margin-top: -15px;
+    margin-top: -10px;
 }   
 
 nav ul{ 
